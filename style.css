@@ -1,4 +1,19 @@
-body {background-color:tan;}
-h1{color:green;}
+.body{
+	background-color:#000000;
+}
+.main{
+	padding-bottom:10px;
+	padding-left:10px;
+	padding-right:10px;
+	padding-top:10px;
+	margin-bottom:50px;
+	margin-left:50px;
+	margin-right:50px;
+	margin-top:50px;
+	border-radius:25px;
+	background-color:#ffffff;
+}
 
-
+input[type="range"] {
+	width:400px;
+  }
